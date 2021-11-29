@@ -1,0 +1,17 @@
+[{"id": 1,
+  "curso": "Perfil financeiro",
+    "descricao":
+      "Nesse módulo você irá descobrir qual é o seu perfil financeiro e como você lida com o dinheiro",
+    "image": "/image/Perfilfinanceiro.jpg",
+    "nomeProfessor": "Felipe Gomes",
+    "listaAulas": ["aula 1","aula2","aula3"]
+},
+{ "id": 2,
+    "curso": "Análise e Controle Financeiro",
+    "descricao":
+      "Aprenda a analisar sua vida financeira, controlar e não entrar em desespero quando ao algo sair do estipulado",
+    "image": "/image/controlefinaceiro.jpg",
+    "nomeProfessor": "Matheus Zarpellon",
+    "listaAulas": ["aula 1","aula2","aula3"]
+  }
+]
